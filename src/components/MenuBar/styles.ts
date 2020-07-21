@@ -10,7 +10,6 @@ import {
   ExitToApp,
   Rocketseat,
 } from '../../styles/icons';
-import { Download } from 'styled-icons/heroicons-solid';
 
 export const Container = styled.div`
   display: none;
