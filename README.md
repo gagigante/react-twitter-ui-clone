@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  React Twitter UI clone
+  React Twitter UI Clone
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gagigante/Twitter-UI-Clone">
